@@ -1,0 +1,15 @@
+/*Pseudo-class
+
+ first of type- apply to the first element of the specific type
+ first-child- apply to the first child of an element
+ last-of-type- apply to the last element of the specific type
+ last-child- apply to the last child of an element
+ nth-of-type(n)- apply to the "nth" element of the specific type. Values can be number, odd or even. 
+ 
+Ex.
+
+ <div>
+    <h1>
+    <h2>
+    <h1>
+</div>*/
